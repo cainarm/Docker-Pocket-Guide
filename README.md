@@ -1,6 +1,6 @@
 # Docker Pocket Guide 📒
 
-List of useful commands for docker, making life easier for begginners.
+List of useful commands for docker, making life easier for beginners.
 
 `docker version` - Display docker version.
 
